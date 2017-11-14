@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\bin\Debug\LaMetricComputerInfoApp.exe.config
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\bin\Debug\LaMetricComputerInfoApp.exe
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\bin\Debug\LaMetricComputerInfoApp.pdb
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\obj\Debug\LaMetricComputerInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\obj\Debug\LaMetricComputerInfoApp.Form1.resources
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\obj\Debug\LaMetricComputerInfoApp.Properties.Resources.resources
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\obj\Debug\LaMetricComputerInfoApp.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\obj\Debug\LaMetricComputerInfoApp.exe
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\obj\Debug\LaMetricComputerInfoApp.pdb
+C:\Users\danie\OneDrive\Work\Programmieren\C#\LaMetricComputerInfoApp\LaMetricComputerInfoApp\obj\Debug\LaMetricComputerInfoApp.Configuration.resources
